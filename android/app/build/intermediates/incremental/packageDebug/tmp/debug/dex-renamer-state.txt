@@ -1,0 +1,4 @@
+#Fri Mar 06 23:09:32 CST 2020
+base.0=E\:\\Work\\Rao-Jang\\ESC\\app\\esc\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
